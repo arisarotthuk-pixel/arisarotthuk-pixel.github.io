@@ -6,11 +6,11 @@ font-family: Arial, sans-serif;
   background-color: #f4f4f4;
   color: #333;
 }
-header h1 {
+header  {
   background: #4CAF50;
-  color:white;
+  color: white;
   padding: 20px 0;
-  text-align: canter;
+  text-align: center;
 }
 header h1 {
   margin: 0;
